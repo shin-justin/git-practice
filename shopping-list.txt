@@ -1,4 +1,5 @@
 eggs
+bread
 bacon
 chips
 beans
