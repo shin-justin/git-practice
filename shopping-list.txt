@@ -11,3 +11,8 @@ stickey-toffee-pudding
 angel-slices
 donuts
 desert
+lemon
+orange
+pear
+mango
+fruit
