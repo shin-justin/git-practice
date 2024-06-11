@@ -1,0 +1,3 @@
+1:feat(login) implement login functionality
+2:chore(app-name): change size of app title
+3:refactor: rename login to sign in
